@@ -1,0 +1,8 @@
+.search-results {
+    margin-left: 5.0rem;
+    text-align: left;
+    margin-top: 2.0rem !important;
+}
+.no-results {
+    margin-top: 1.0rem;
+}

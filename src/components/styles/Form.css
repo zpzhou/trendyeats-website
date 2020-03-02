@@ -1,0 +1,12 @@
+.form {
+  margin-top: 1.5rem;
+}
+.location-search {
+  display: inline !important;
+  margin-right: 1.0rem;
+}
+
+.search-button {
+  margin-top: -0.4rem !important;
+  margin-left: 1.0rem !important;
+}
